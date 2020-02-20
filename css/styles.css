@@ -1,0 +1,22 @@
+#logo {
+    width: 50px;
+}
+#delicious {
+    font-family: 'Yellowtail'; font-size: 32px;
+    margin: 0px;
+    padding: 0px;
+    line-height: 10px;
+}
+#best {
+    font-family: 'Lateef'; font-size: 10px;
+}
+#wide {
+    width: 700px;
+}
+#space {
+    padding-right: 10px;
+}
+.logos {
+    float: right;
+    padding: 1px;
+}
