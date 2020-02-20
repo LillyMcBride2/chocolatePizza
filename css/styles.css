@@ -11,13 +11,14 @@
     font-family: 'Lateef'; font-size: 10px;
 }
 #wide {
-    width: 700px;
+    width: 425px;
 }
 #space {
     padding-right: 10px;
 }
 #print {
-    width: 700px;
+    width: 475px;
+    font-size: 11px;
 }
 #printer {
     float: right;
@@ -37,10 +38,6 @@
     float: inline-start
 }
 
-#print {
-    float:inline-end;
-}
-
 #chocPiPic {
     display: block;
     margin-left: auto;
@@ -49,7 +46,7 @@
 
 #recipe {
     overflow-wrap: break-word;
-    width: 730px;
+    width: 630px;
     height: 100px;
     margin-top: 20px;
     margin-bottom: 20px;
@@ -59,11 +56,11 @@
 
 #ingredients {
     column-count: 2;
-    background-image: url("/Img/list-bg.png");
+    background-image: url("/images/list-bg.png");
     background-size: cover;
     margin-left: auto;
     margin-right: auto;
-    width: 700px;
+    width: 650px;
     height: 300px;
     margin-top: 145px;
     margin-bottom: 20px;
